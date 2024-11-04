@@ -1,0 +1,20 @@
+/*style pour About*/
+
+.banner{}
+.content{
+   h2{ color: blue; padding-bottom: 1rem;}
+    p{ color: darkblue;}
+ }
+.container main{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   padding: 1.5rem;
+   p,h2{
+    text-align: left;
+   }
+
+   }
+   .container main div{
+    padding-left: 1rem;
+   }

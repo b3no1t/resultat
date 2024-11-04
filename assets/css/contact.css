@@ -1,0 +1,28 @@
+/* Contact */
+
+
+.contact{
+
+ main{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+ 
+ }
+
+form{
+display: flex;
+flex-direction: column;
+width: 60%;
+}
+
+
+ input{
+  background-color: lightgrey;
+  padding: 1.5rem 2.5rem;
+  margin-bottom: 1px;
+  color: grey;
+  border: none }
+
+}
